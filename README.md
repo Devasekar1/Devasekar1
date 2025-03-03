@@ -8,8 +8,7 @@
   
     
   </a>
-  <a href="https://leetcode.com/u/KarthickeyanM/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin: 0 15px;" />
+ 
   </a>
   <a href="https://instagram.com/?" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_k.e.n.n.y" height="30" width="40" style="margin: 0 15px;" />
@@ -24,7 +23,7 @@
   </a> 
 </p> -->
 
-- 📫 How to reach me **dev.iamkarthickeyan@gmail.com**
+- 📫 How to reach me **devas200412@gmail.com**
 
 <h3>Languages</h3>
 <div style="display: flex; flex-wrap: wrap;">
