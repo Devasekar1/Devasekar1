@@ -40,16 +40,16 @@
 
 <h3>Frameworks</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg" alt="bootstrap" width="55" height="55"  />
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="55" height="55" style="margin-right: 10px;" />-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/matplotlib/matplotlib-plain-wordmark.svg" alt="matplotlib" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/django/django-plain-wordmark.svg" alt="Django" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/django/django-plain-wordmark.svg" alt="Django" width="55" height="55"/> -->
 </div> 
 
 <h3>Databases</h3>
