@@ -11,11 +11,11 @@
  
   </a>
   <a href="https://instagram.com/?" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_k.e.n.n.y" height="30" width="40" style="margin: 0 15px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__Classy" height="30" width="40" style="margin: 0 15px;" />
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KarthickeyanM&label=Profile%20views&color=0e75b6&style=flat" alt="Github Profilr views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevaS&label=Profile%20views&color=0e75b6&style=flat" alt="Github Profilr views" /> </p>
 
 <!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
