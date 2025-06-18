@@ -23,7 +23,7 @@
   </a> 
 </p> -->
 
-- 📫 How to reach me **devas200412@gmail.com**
+- 📫 How to reach me **dev.imdevas@gmail.com**
 
 <h3>Languages</h3>
 <div style="display: flex; flex-wrap: wrap;">
